@@ -1,0 +1,98 @@
+/*if(z==x)z=d;
+if(a<=b)x=y;
+if(a<b)x=y;
+a= x >= y;
+if(x+y >= z-w)x=y;
+else s=i;
+
+//if(a or b){x=y;break;}
+//else y=z;
+function (){q=s;}
+while(x){y=z;break;{l=k;}l++;a=b;{{temp=jjj;}}} // pernaei ola ta vars san global....temp=globalVar!!!!!!!!!!!!!! DIF
+while(x){break;}
+
+for(x=0;x<0;x++){y=z;}
+for(i=15;x>=0;x--){y=z;break;continue;break;continue;gg=lost;}
+
+//TABLES!!!
+x = p[a+b];
+y= q.a;
+kkk=_t;
+z=x+y;
+function fffff(){return a+b;k=23;return 2;p=qq+ww;}
+function ggg(){function ggg(){asssda;}return 222;function h(){asdla;}}
+x=gssss;
+//x=(function(){});
+
+function gggg(){return true;function s(){pw=wwee; as=qwe;return 222;}function www(){asda=sdddd;}}
+function f(y,asd,s){return kk;as=we;}
+x=f(y,as,sd)(3,true,"as",f);
+SS=ggg(asd);
+while(x){y=z;break;continue;{l=k;}l++;a=b;{{temp=jjj;continue;}}} // pernaei ola ta vars san global....temp=globalVar!!!!!!!!!!!!!! DIF
+while(x){break;while(y){xxs=asdq;while(asd){qw=saq;while(ww){asdaq=asq;while(aslqp){oo=ppp;}}}}while(x){ass=qqqq;}}
+
+for(x=0;x<=0;x++){continue;y=z;}
+
+for(ggg=15;ggg>=0;ggg--){for(x=0;x<=0;x++){ss=aa;break;continue;}y=z;break;continue;break;continue;gg=lost;}
+
+//TABLES!!!
+d[1+3]=y;
+x = p[a+b];
+q.a;
+x.b;
+x=p[1+3];
+a=x[b+c];
+x = [-4,13,a+b];
+x.b=a+c;
+x=a;
+
+x.a=1.2;
+x=true;
+x.a.b.c.d=true; 
+x.a.b.c.d=a.a.b.c;
+
+t=[{"x": 0},{"y": a+b},{-1: 0}];
+
+
+x=a;
+x=a or b;
+
+x=a < b or c < d and e < f;
+ //if(a>=b or s<r and asdkas>asdk)x=y;
+//s or ss;
+//if(a>=b or s<r and qwe<asd){ss=aa;}
+//a<b or ss<b and asd<asds;
+//while(a<b or bb>aaa){ss=as;}
+
+//a or b<aasd;
+
+if(a<=b){aa=ss;}
+x=f(sss,asd,asddd);
+a>b;
+a>b;*/
+
+nl = "\n";
+
+a = 1;
+
+b = 2;
+
+c = 3;
+
+print(a,b,c);
+
+d = b < c; //true
+
+e = not a == b; //false
+
+f = c >= d or b != 1; //true
+
+print(d, " ", e, " ", f, nl);
+
+f = e >= d and c != b or not c > a; //true
+
+print(f, nl);
+
+f = not f; //false
+
+print(f, nl);
